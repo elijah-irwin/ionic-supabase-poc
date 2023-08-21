@@ -1,0 +1,7 @@
+{
+  "name": "ionic-supabase-poc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
